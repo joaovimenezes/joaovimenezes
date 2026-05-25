@@ -32,8 +32,6 @@
 }
 ```
 
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -41,8 +39,6 @@
     <img src="https://skillicons.dev/icons?i=c,cs,python,js,dotnet,git,github,mysql" />
   </a>
 </div>
-
----
 
 ## 🌐 Contact
 
@@ -56,8 +52,6 @@
 </a>
 
 </div>
-
----
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7851A9&section=footer"/>
