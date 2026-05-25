@@ -44,23 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://shion.dev)
-
-
-<div align="center">
-
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovimenezes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovimenezes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
----
-
 ## 🌐 Contact
 
 <div align="center">
